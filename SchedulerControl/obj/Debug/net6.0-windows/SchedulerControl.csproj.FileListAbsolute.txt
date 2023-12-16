@@ -1,0 +1,14 @@
+C:\dominik\visual_studio_c#_projects\SchedulerControl\SchedulerControl\bin\Debug\net6.0-windows\SchedulerControl.deps.json
+C:\dominik\visual_studio_c#_projects\SchedulerControl\SchedulerControl\bin\Debug\net6.0-windows\SchedulerControl.dll
+C:\dominik\visual_studio_c#_projects\SchedulerControl\SchedulerControl\bin\Debug\net6.0-windows\SchedulerControl.pdb
+C:\dominik\visual_studio_c#_projects\SchedulerControl\SchedulerControl\obj\Debug\net6.0-windows\SchedulerControl.csproj.AssemblyReference.cache
+C:\dominik\visual_studio_c#_projects\SchedulerControl\SchedulerControl\obj\Debug\net6.0-windows\SchedulerControl.csproj.GenerateResource.cache
+C:\dominik\visual_studio_c#_projects\SchedulerControl\SchedulerControl\obj\Debug\net6.0-windows\SchedulerControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\dominik\visual_studio_c#_projects\SchedulerControl\SchedulerControl\obj\Debug\net6.0-windows\SchedulerControl.AssemblyInfoInputs.cache
+C:\dominik\visual_studio_c#_projects\SchedulerControl\SchedulerControl\obj\Debug\net6.0-windows\SchedulerControl.AssemblyInfo.cs
+C:\dominik\visual_studio_c#_projects\SchedulerControl\SchedulerControl\obj\Debug\net6.0-windows\SchedulerControl.csproj.CoreCompileInputs.cache
+C:\dominik\visual_studio_c#_projects\SchedulerControl\SchedulerControl\obj\Debug\net6.0-windows\SchedulerControl.dll
+C:\dominik\visual_studio_c#_projects\SchedulerControl\SchedulerControl\obj\Debug\net6.0-windows\refint\SchedulerControl.dll
+C:\dominik\visual_studio_c#_projects\SchedulerControl\SchedulerControl\obj\Debug\net6.0-windows\SchedulerControl.pdb
+C:\dominik\visual_studio_c#_projects\SchedulerControl\SchedulerControl\obj\Debug\net6.0-windows\ref\SchedulerControl.dll
+C:\dominik\visual_studio_c#_projects\SchedulerControl\SchedulerControl\obj\Debug\net6.0-windows\SchedulerControl.SchedulerControl.resources
